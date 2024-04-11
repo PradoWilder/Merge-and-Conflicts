@@ -1,1 +1,1 @@
-# Merge-and-Conflicts -- ceci est l'ajout de quelques lignes pour gérer les conflits 
+REMOTE # Merge-and-Conflicts -- ceci est l'ajout de quelques lignes pour gérer les conflits 
